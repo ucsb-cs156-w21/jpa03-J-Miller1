@@ -1,3 +1,6 @@
+secrets-heroku.properties
+secrets-localhost.properties
+.env.local
 temp-credentials.txt
 HELP.md
 target/
